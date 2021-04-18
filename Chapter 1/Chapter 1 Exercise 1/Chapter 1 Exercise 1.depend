@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1441472696 source:c:\users\owner\documents\advanced topics in c exercises\chapter 1\chapter 1 exercise 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+

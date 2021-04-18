@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1447207836 source:c:\users\owner\documents\advanced topics in c exercises\chapter 4\chapter 5 exercise 4\main.c
+	<stdio.h>
+	<ctype.h>
+	"stack.h"
+
+1447207832 c:\users\owner\documents\advanced topics in c exercises\chapter 4\chapter 5 exercise 4\stack.h
+	<stdlib.h>
+
+1447213595 source:c:\users\owner\documents\advanced topics in c exercises\chapter 5\chapter 5 exercise 4\main.c
+	<stdio.h>
+	<ctype.h>
+	"stack.h"
+
+1447211432 c:\users\owner\documents\advanced topics in c exercises\chapter 5\chapter 5 exercise 4\stack.h
+	<stdlib.h>
+

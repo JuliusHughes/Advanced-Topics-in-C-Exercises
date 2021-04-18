@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1447569023 source:c:\users\owner\documents\advanced topics in c exercises\chapter 4\chapter 5 exercise 11\main.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+
+1447567778 c:\users\owner\documents\advanced topics in c exercises\chapter 4\chapter 5 exercise 11\queue.h
+	<stdlib.h>
+

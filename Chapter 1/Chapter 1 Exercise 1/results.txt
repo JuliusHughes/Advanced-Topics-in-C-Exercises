@@ -1,0 +1,26 @@
+
+Artists         Votes
+
+Deftones         1
+LupeFiasco       1
+Skyzoo           0
+Eminem           0
+Elzhi            0
+Eyedea           0
+Nas              0
+Illmind          0
+Rashad           0
+JoeBudden        0
+
+Artists         Votes
+
+Deftones         1
+Elzhi            0
+Eminem           0
+Eyedea           0
+Illmind          0
+LupeFiasco       1
+Nas              0
+Rashad           0
+Skyzoo           0
+JoeBudden        0
